@@ -1,0 +1,19 @@
+ToDo:
+-----
+
+- MMU?
+- Fork watchdog processe
+- File system
+- Bootstrapping?
+
+kernel
+------
+- Add event logging
+- Add timeslicing
+- Add pre-emptive scheduling
+- Add mutex support
+- Instead of passing pointers through kernel space, copy messages over
+
+
+
+
