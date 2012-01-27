@@ -5,6 +5,7 @@ ToDo:
 - Fork watchdog processe
 - File system
 - Bootstrapping?
+- POSIX Compliance
 
 kernel
 ------
